@@ -1,6 +1,4 @@
-//fpc 3.0.0
-
-program Practice_4_1;
+﻿program Practice_4_1;
 
 
 var 
