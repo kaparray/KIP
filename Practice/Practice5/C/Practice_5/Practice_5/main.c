@@ -146,9 +146,14 @@ int main(int argc, const char * argv[]) {
                     for (int i = 0; i < n; i++){
                         printf("%d ", array[i]);
                     }
+                
                 }
+            } else {
+                printf("%s", "Вы выбоали не верный пункт меню!\n");
             }
-        }
-    
+        printf("\nВведите номер задачи: ");
+    }
+    puts("Пока! Возвращайся :)");
     return 0;
 }
+
