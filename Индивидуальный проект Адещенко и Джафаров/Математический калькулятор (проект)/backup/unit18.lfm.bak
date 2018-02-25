@@ -1,0 +1,36 @@
+object Form18: TForm18
+  Left = 288
+  Height = 230
+  Top = 216
+  Width = 550
+  Caption = 'Form18'
+  ClientHeight = 230
+  ClientWidth = 550
+  OnCreate = FormCreate
+  LCLVersion = '1.6.4.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 231
+    Top = -2
+    Width = 549
+    Caption = '0'
+    ClientHeight = 231
+    ClientWidth = 549
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -32
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    OnClick = Panel1Click
+    object ProgressBar1: TProgressBar
+      Left = 0
+      Height = 46
+      Top = 184
+      Width = 550
+      TabOrder = 0
+    end
+  end
+end

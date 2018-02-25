@@ -1,0 +1,46 @@
+object Form1: TForm1
+  Left = 241
+  Height = 480
+  Top = 165
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  ClientHeight = 0
+  ClientWidth = 0
+  Color = clLime
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '1.6.0.4'
+  object Button1: TButton
+    Left = 16
+    Height = 73
+    Top = 376
+    Width = 200
+    Caption = 'Электронный конспект'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 256
+    Height = 73
+    Top = 376
+    Width = 200
+    Caption = 'Калькулятор'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 488
+    Height = 73
+    Top = 376
+    Width = 200
+    Caption = '📏 Калькулятор уравнений 📐 '
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Arial Narrow'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+end

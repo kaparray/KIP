@@ -1,0 +1,76 @@
+object Form9: TForm9
+  Left = 387
+  Height = 480
+  Top = 116
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Математический калькулятор'
+  ClientHeight = 480
+  ClientWidth = 700
+  Color = clLime
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 24
+    Height = 41
+    Top = 406
+    Width = 190
+    Caption = 'В главное меню'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 256
+    Height = 41
+    Top = 406
+    Width = 187
+    Caption = 'В меню выбора темы'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 488
+    Height = 39
+    Top = 408
+    Width = 187
+    Caption = '🔙'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -32
+    Font.Name = 'Arial Narrow'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Memo1: TMemo
+    Left = 40
+    Height = 283
+    Top = 64
+    Width = 625
+    Lines.Strings = (
+      ''
+      ''
+      ''
+      ''
+      ''
+      'Квадратное уравнение — уравнение вида ax2 + bx + c = 0, где a не равно 0. Квадратное уравнение с '
+      'вещественными коэффициентами a, b, c может иметь от 0 до 2 вещественных корней в зависимости от '
+      'значения дискриминанта D = b2 - 4ac:'
+      #9
+      'при D > 0 корней два, и они вычисляются по формуле:'
+      ''
+      'x_1,2=(-b∓√(b^2-4ac))/2a'
+      #9
+      #9'при D = 0 корень один (в некоторых контекстах говорят также о двух равных или совпадающих '
+      'корнях), кратности 2:'
+      'x=(-b)/2a'
+      ''
+      #9'при D < 0 вещественных корней нет.'
+      '                                    '
+    )
+    OnChange = Memo1Change
+    TabOrder = 3
+  end
+end

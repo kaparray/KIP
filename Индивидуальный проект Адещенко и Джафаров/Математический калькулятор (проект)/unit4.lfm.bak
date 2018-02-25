@@ -1,0 +1,74 @@
+object Form4: TForm4
+  Left = 412
+  Height = 480
+  Top = 182
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Form4'
+  ClientHeight = 480
+  ClientWidth = 700
+  Color = clLime
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 24
+    Height = 46
+    Top = 410
+    Width = 177
+    Caption = 'В главное меню'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 232
+    Height = 46
+    Top = 408
+    Width = 177
+    Caption = 'В меню выбора темы'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 480
+    Height = 48
+    Top = 410
+    Width = 79
+    Caption = '<--'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 592
+    Height = 48
+    Top = 408
+    Width = 79
+    Caption = '-->'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+  object Memo1: TMemo
+    Left = 48
+    Height = 252
+    Top = 72
+    Width = 598
+    Lines.Strings = (
+      '     '
+      '                                                                         Формулировки'
+      ''
+      'Основная формулировка содержит алгебраические действия — в прямоугольном треугольнике, длины '
+      'катетов которого равны b и  a , а длина гипотенузы — , выполнено соотношение:'
+      ''
+      'a^2+b^2=c^2'#9
+      ''
+      'Возможна и эквивалентная геометрическая формулировка, прибегающая к понятию площади фигуры: '
+      'в прямоугольном треугольнике площадь квадрата, построенного на гипотенузе, равна сумме площадей '
+      'квадратов, построенных на катетах. В таком виде теорема сформулирована в Началах Евклида.'
+      ''
+      'Обратная теорема Пифагора — утверждение о прямоугольности всякого треугольника, длины сторон '
+      'которого связаны соотношением a^2+b^2=c^2 . Как следствие, для всякой тройки положительных '
+      'чисел a , b и c , такой, что a^2+b^2=c^2 , существует прямоугольный треугольник с катетами a и b и '
+      'гипотенузой c .'
+    )
+    TabOrder = 4
+  end
+end

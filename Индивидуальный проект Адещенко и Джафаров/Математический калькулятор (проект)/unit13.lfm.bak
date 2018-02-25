@@ -1,0 +1,35 @@
+object Form13: TForm13
+  Left = 557
+  Height = 480
+  Top = 153
+  Width = 700
+  Caption = 'Form13'
+  ClientHeight = 480
+  ClientWidth = 700
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 32
+    Height = 54
+    Top = 368
+    Width = 188
+    Caption = 'ТЕОРЕМА ПИЫАГОРА'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 31
+    Height = 54
+    Top = 216
+    Width = 189
+    Caption = 'Button2'
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 31
+    Height = 47
+    Top = 40
+    Width = 188
+    Caption = 'Button3'
+    TabOrder = 2
+  end
+end

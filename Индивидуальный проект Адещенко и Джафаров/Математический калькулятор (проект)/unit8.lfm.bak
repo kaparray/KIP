@@ -1,0 +1,85 @@
+object Form8: TForm8
+  Left = 350
+  Height = 480
+  Top = 148
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Form8'
+  ClientHeight = 480
+  ClientWidth = 700
+  Color = clLime
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object Memo1: TMemo
+    Left = 24
+    Height = 382
+    Top = 23
+    Width = 648
+    Lines.Strings = (
+      ' Пример 1. Решите уравнение'
+      ' 2x-13-x+12=22x-13-x+12=2'
+      'Решение:'
+      #9'2x-13-x+12=22x-13-x+12=2'
+      #9'(2x-1)*23*2-(x+1)*32*3=2(2x-1)*23*2-(x+1)*32*3=2'
+      #9'(4x-2)-(3x+3)6=2(4x-2)-(3x+3)6=2'
+      #9'4x-2-3x-36=24x-2-3x-36=2'
+      #9'x-56=2x-56=2'
+      #9'x-5=2*6x-5=2*6'
+      #9'x-5=12x-5=12'
+      #9'x=12+5x=12+5'
+      #9'x=17x=17'
+      ' Пример 1. Решите уравнение'
+      ' 2x-13-x+12=22x-13-x+12=2'
+      'Решение:'
+      #9'2x-13-x+12=22x-13-x+12=2'
+      #9'(2x-1)*23*2-(x+1)*32*3=2(2x-1)*23*2-(x+1)*32*3=2'
+      #9'(4x-2)-(3x+3)6=2(4x-2)-(3x+3)6=2'
+      #9'4x-2-3x-36=24x-2-3x-36=2'
+      #9'x-56=2x-56=2'
+      #9'x-5=2*6x-5=2*6'
+      #9'x-5=12x-5=12'
+      #9'x=12+5x=12+5'
+      #9'x=17x=17'
+      'Ответ: 17.'
+      ''
+      'Пример 2. Решите уравнение '
+      '5x+2x+34=3x-12+4x5x+2x+34=3x-12+4x'
+      'Решение:'
+      #9'5x+2x+34=3x-12+4x5x+2x+34=3x-12+4x'
+      #9'20x+2x+34=3x-1+8x220x+2x+34=3x-1+8x2'
+      #9'22x+34=11x-1222x+34=11x-12'
+      #9'22x+3=22x-222x+3=22x-2'
+      #9'22x-22x=-2-322x-22x=-2-3'
+      #9'0=-50=-5, но такого быть не может, значит данное уравнение не имеет корней.'
+      'Ответ: нет корней.'
+    )
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 24
+    Height = 45
+    Top = 424
+    Width = 192
+    Caption = 'В главное меню'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 248
+    Height = 43
+    Top = 424
+    Width = 208
+    Caption = 'В меню выбора тем'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 488
+    Height = 43
+    Top = 424
+    Width = 184
+    Caption = '<--'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+end

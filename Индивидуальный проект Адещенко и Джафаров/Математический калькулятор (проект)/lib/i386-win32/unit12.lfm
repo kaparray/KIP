@@ -1,0 +1,274 @@
+object Form12: TForm12
+  Left = 534
+  Height = 345
+  Top = 360
+  Width = 352
+  BorderIcons = [biSystemMenu, biMinimize]
+  BorderStyle = bsSingle
+  Caption = 'Математический калькулятор'
+  ClientHeight = 345
+  ClientWidth = 352
+  OnCreate = FormCreate
+  LCLVersion = '1.6.4.0'
+  object Edit1: TEdit
+    Left = 0
+    Height = 29
+    Top = 8
+    Width = 352
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentBidiMode = False
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 7
+    Height = 41
+    Top = 46
+    Width = 115
+    Caption = '🔙'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -32
+    Font.Name = 'Arial Narrow'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 7
+    Height = 40
+    Top = 96
+    Width = 51
+    Caption = 'cos'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 7
+    Height = 41
+    Top = 145
+    Width = 51
+    Caption = 'sin'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 7
+    Height = 40
+    Top = 192
+    Width = 51
+    Caption = 'tan'
+    OnClick = Button4Click
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 128
+    Height = 41
+    Top = 46
+    Width = 104
+    Caption = 'C'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -24
+    Font.Name = 'Arial Narrow'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = Button5Click
+    ParentFont = False
+    TabOrder = 5
+  end
+  object Button6: TButton
+    Left = 184
+    Height = 40
+    Top = 240
+    Width = 48
+    Caption = ','
+    OnClick = Button6Click
+    TabOrder = 6
+  end
+  object Button7: TButton
+    Left = 296
+    Height = 40
+    Top = 47
+    Width = 48
+    Caption = 'Корень'
+    OnClick = Button7Click
+    TabOrder = 7
+  end
+  object Button8: TButton
+    Left = 72
+    Height = 40
+    Top = 96
+    Width = 48
+    Caption = '1'
+    OnClick = Button8Click
+    TabOrder = 8
+  end
+  object Button9: TButton
+    Left = 128
+    Height = 40
+    Top = 96
+    Width = 48
+    Caption = '2'
+    OnClick = Button9Click
+    TabOrder = 9
+  end
+  object Button10: TButton
+    Left = 184
+    Height = 40
+    Top = 96
+    Width = 48
+    Caption = '3'
+    OnClick = Button10Click
+    TabOrder = 10
+  end
+  object Button11: TButton
+    Left = 72
+    Height = 40
+    Top = 144
+    Width = 48
+    Caption = '4'
+    OnClick = Button11Click
+    TabOrder = 11
+  end
+  object Button12: TButton
+    Left = 128
+    Height = 39
+    Top = 146
+    Width = 48
+    Caption = '5'
+    OnClick = Button12Click
+    TabOrder = 12
+  end
+  object Button13: TButton
+    Left = 184
+    Height = 40
+    Top = 146
+    Width = 48
+    Caption = '6'
+    OnClick = Button13Click
+    TabOrder = 13
+  end
+  object Button14: TButton
+    Left = 72
+    Height = 40
+    Top = 240
+    Width = 104
+    Caption = '0'
+    OnClick = Button14Click
+    TabOrder = 14
+  end
+  object Button15: TButton
+    Left = 184
+    Height = 40
+    Top = 192
+    Width = 48
+    Caption = '9'
+    OnClick = Button15Click
+    TabOrder = 15
+  end
+  object Button16: TButton
+    Left = 240
+    Height = 40
+    Top = 96
+    Width = 48
+    Caption = '*'
+    OnClick = Button16Click
+    TabOrder = 16
+  end
+  object Button17: TButton
+    Left = 240
+    Height = 40
+    Top = 145
+    Width = 48
+    Caption = '➗'
+    OnClick = Button17Click
+    TabOrder = 17
+  end
+  object Button18: TButton
+    Left = 240
+    Height = 40
+    Top = 192
+    Width = 48
+    Caption = '➖'
+    OnClick = Button18Click
+    TabOrder = 18
+  end
+  object Button19: TButton
+    Left = 240
+    Height = 40
+    Top = 240
+    Width = 48
+    Caption = '+'
+    OnClick = Button19Click
+    TabOrder = 19
+  end
+  object Button20: TButton
+    Left = 7
+    Height = 40
+    Top = 240
+    Width = 51
+    Caption = 'ctg'
+    OnClick = Button20Click
+    TabOrder = 20
+  end
+  object Button22: TButton
+    Left = 128
+    Height = 40
+    Top = 192
+    Width = 48
+    Caption = '8'
+    OnClick = Button22Click
+    TabOrder = 21
+  end
+  object Button23: TButton
+    Left = 296
+    Height = 133
+    Top = 145
+    Width = 48
+    Caption = '='
+    OnClick = Button23Click
+    TabOrder = 22
+  end
+  object Button24: TButton
+    Left = 72
+    Height = 40
+    Top = 192
+    Width = 48
+    Caption = '7'
+    OnClick = Button24Click
+    TabOrder = 23
+  end
+  object Button25: TButton
+    Left = 240
+    Height = 40
+    Top = 46
+    Width = 48
+    Caption = 'x^'
+    OnClick = Button25Click
+    TabOrder = 24
+  end
+  object Button21: TButton
+    Left = 8
+    Height = 48
+    Top = 288
+    Width = 334
+    Caption = 'В главное меню'
+    OnClick = Button21Click
+    TabOrder = 25
+  end
+  object Button26: TButton
+    Left = 296
+    Height = 41
+    Top = 95
+    Width = 48
+    Caption = '%'
+    OnClick = Button26Click
+    TabOrder = 26
+  end
+end

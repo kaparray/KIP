@@ -1,0 +1,55 @@
+object Form13: TForm13
+  Left = 517
+  Height = 478
+  Top = 359
+  Width = 700
+  Caption = 'Математический калькулятор'
+  ClientHeight = 478
+  ClientWidth = 700
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 384
+    Height = 54
+    Top = 320
+    Width = 308
+    Caption = 'ТЕОРЕМА ПИФАГОРА'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 8
+    Height = 54
+    Top = 320
+    Width = 312
+    Caption = 'Калькулятор квадратных уравнений'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button2Click
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 256
+    Height = 47
+    Top = 416
+    Width = 188
+    Caption = 'Главное меню'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    OnClick = Button3Click
+    ParentFont = False
+    TabOrder = 2
+  end
+end

@@ -1,0 +1,11 @@
+object Form7: TForm7
+  Left = 297
+  Height = 480
+  Top = 341
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Математический калькулятор'
+  Color = clLime
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+end

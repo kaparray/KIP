@@ -1,0 +1,12 @@
+object Form8: TForm8
+  Left = 403
+  Height = 495
+  Top = 154
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Математический калькулятор'
+  Color = clLime
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+end

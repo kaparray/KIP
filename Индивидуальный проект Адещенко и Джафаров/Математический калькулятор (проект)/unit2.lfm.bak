@@ -1,0 +1,56 @@
+object Form2: TForm2
+  Left = 547
+  Height = 480
+  Top = 149
+  Width = 700
+  BorderIcons = [biSystemMenu, biMinimize]
+  Caption = 'Form2'
+  ClientHeight = 0
+  ClientWidth = 0
+  Color = clLime
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 88
+    Height = 63
+    Top = 408
+    Width = 528
+    Caption = 'В главное меню'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 240
+    Height = 63
+    Top = 328
+    Width = 208
+    Caption = 'Уравнения с одной переменной'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 8
+    Height = 63
+    Top = 328
+    Width = 208
+    Caption = 'Теорема Пифагора'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 480
+    Height = 63
+    Top = 328
+    Width = 208
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -64
+    Font.Name = 'Arial Narrow'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsItalic]
+    OnClick = Button4Click
+    ParentFont = False
+    TabOrder = 3
+  end
+end
