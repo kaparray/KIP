@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+\\mac\home\desktop\minmax\minmax\MyForm.h(141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+MyForm.cpp(23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+MyForm.cpp(24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+MyForm.cpp(25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+MyForm.cpp(26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+MyForm.cpp(38): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+MyForm.cpp(40): warning C4804: <: небезопасное использование типа "bool" в операции
+MyForm.cpp(48): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+\\mac\home\desktop\minmax\minmax\myform.cpp(50): warning C4715: MinMax::MyForm::CalcResult: значение возвращается не при всех путях выполнения
+  MinMax.vcxproj -> \\Mac\Home\Desktop\MinMax\Debug\MinMax.exe
