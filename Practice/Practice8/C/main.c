@@ -33,7 +33,6 @@ void bubbleSorted(int *arr,int len) {
 
 int main(int argc, const char * argv[]) {
     
-    int task_num = 0;
     int n,m;
     
     
@@ -49,8 +48,7 @@ int main(int argc, const char * argv[]) {
     n = rand() % 10;
     m = rand() % 10;
     
-    printf("m = %d\n", m);
-    printf("n = %d\n", n);
+    
     
     int **array;
     array = (int**)malloc(sizeof(int*)*m);

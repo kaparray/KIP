@@ -91,7 +91,7 @@ int main(int argc, const char * argv[]) {
         }else {
             printf("%s", "Выввели не то число :)");
         }
-        
+        printf("\n%s","Введите номер задачи: ");
     }
     
     
