@@ -14,21 +14,6 @@ void swap(int *element1Ptr,int *element2Ptr) {
     *element2Ptr = hold;
 }
 
-void bubbleSorted(int *arr,int len) {
-    
-    
-    for (size_t pass = 0; pass < len - 1; pass++) {
-        for (size_t j = 0; j < len - 1; j++) {
-            if (arr[j] < arr[j + 1]) {
-                swap( &arr[j], &arr[j + 1] );
-            }
-        }
-    }
-}
-
-
-
-
 
 
 int main(int argc, const char * argv[]) {
@@ -87,7 +72,13 @@ int main(int argc, const char * argv[]) {
     
     puts("\n\n");
     
-    bubbleSorted(arrayn, n*4);
+    for (size_t pass = 0; pass < n*2 - 1; pass++) {
+        for (size_t j = 0; j < n*2 - 1; j++) {
+            if (arrayn[j] < arrayn[j + 1]) {
+                swap( &arrayn[j], &arrayn[j + 1] );
+            }
+        }
+    }
 
     for (int i = 0; i < n * 2; i++){
         printf("%d ", arrayn[i]);
