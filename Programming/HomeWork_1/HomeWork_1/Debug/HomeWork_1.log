@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+MyForm.cpp(36): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+MyForm.cpp(39): warning C4804: <: небезопасное использование типа "bool" в операции
+MyForm.cpp(50): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+\\mac\home\desktop\homework_1\homework_1\myform.cpp(52): warning C4715: HomeWork1::MyForm::getValue: значение возвращается не при всех путях выполнения
+  HomeWork_1.vcxproj -> \\Mac\Home\Desktop\HomeWork_1\Debug\HomeWork_1.exe
