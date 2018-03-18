@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+MyForm.cpp(18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+MyForm.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+MyForm.cpp(26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  PartyHomeWork.vcxproj -> C:\Users\kaparray\source\repos\PartyHomeWork\Debug\PartyHomeWork.exe
