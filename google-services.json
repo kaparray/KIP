@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392057706992",
+    "firebase_url": "https://velp-1544e.firebaseio.com",
+    "project_id": "velp-1544e",
+    "storage_bucket": "velp-1544e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392057706992:android:c6d4acaa44729358",
+        "android_client_info": {
+          "package_name": "net.kaparray.velp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392057706992-i459bimkjgo6osp3l9hbjk8boh9nlbek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.kaparray.velp",
+            "certificate_hash": "fad9842c9b62ade74febc4afd41691cc7d12d4be"
+          }
+        },
+        {
+          "client_id": "392057706992-supoe22mv0o9h547n0itvkif80su2e02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaZQDYJVDa6nbKynHYl-bBiYKsIL-IeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392057706992-supoe22mv0o9h547n0itvkif80su2e02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
