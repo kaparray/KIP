@@ -134,6 +134,23 @@ int main(int argc, const char * argv[]) {
 //            printf("%c", ch);
 //
 //            int fclose(FILE *fp);
+            
+            
+            int num;
+            FILE *fptr;
+            
+            if ((fptr = fopen("File.txt","r")) == NULL){
+                printf("Error! opening file");
+                
+                // Program exits if the file pointer returns NULL.
+                exit(1);
+            }
+            
+            fscanf(fptr,"%d", &num);
+            
+            printf("Value of n=%d", num);
+            fclose(fptr);
+            
         }
     } // for while
     
