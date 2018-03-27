@@ -91,7 +91,7 @@ begin
   result:=ind;
 end;
 
-procedure NewArr(a:mas; min:Integer; var b:mas);
+procedure newArr(a:mas; min:Integer; var b:mas);
 var i:Integer;
 begin
   SetLength(b, 0);
@@ -114,7 +114,7 @@ begin
   arr := GenerateArray(len);
   ShowInGrid1(arr);
   len_array := pos(arr);
-  NewArr(arr, len_array, rez_arr);
+  newArr(arr, len_array, rez_arr);
   ShowInGrid2(rez_arr);
 end;
 

@@ -31,17 +31,19 @@ int main(int argc, const char * argv[]) {
         }
     }
     
+
+    
     // Start sorrted
-    for (int i = 0; i < 20 - 1; i++) {
-        /* устанавливаем начальное значение минимального индекса */
+    for (int i = 0; i < 20 - 1; i++)
+    {
         int min_i = i;
-        /* находим индекс минимального элемента */
-        for (int j = i + 1; j < 20; j++) {
-            if (new_negative_array[j] > new_negative_array[min_i] && new_negative_array[j] < 0) {
+        for (int j = i + 1; j < 20; j++)
+        {
+            if (new_negative_array[j] > new_negative_array[min_i] && new_negative_array[j] < 0)
+            {
                 min_i = j;
             }
         }
-        /* меняем значения местами */
         int temp = new_negative_array[i];
         new_negative_array[i] = new_negative_array[min_i];
         new_negative_array[min_i] = temp;

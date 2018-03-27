@@ -9,12 +9,14 @@
 #include <stdio.h>
 #include <math.h>
 
+int x,y,c,d;
+
 float castomMax(float num1, float num2) {
     if (num1 > num2) return num1;
     else  return  num2;
 }
 
-float getValue(float x, float y, float c, float d) {
+void getValue(float x, float y, float c, float d) {
     float xy = x * y;
     float cx = c * x;
     float dy = d * y;
@@ -37,14 +39,10 @@ float getValue(float x, float y, float c, float d) {
     else if (xy < 0) {
         answer = pow(2, c*d) - x;
     }
-    return answer;
+    printf("Результат равен %f", answer);
 }
 
-
-int main(int argc, const char * argv[]) {
-   
-    int x,y,c,d;
-    
+void setValue(){
     puts("Введите 4 числа и  получеие ответ по формуле");
     printf("%s", "Введите x: ");
     scanf("%d", &x);
@@ -54,8 +52,11 @@ int main(int argc, const char * argv[]) {
     scanf("%d", &c);
     printf("%s", "Введите d: ");
     scanf("%d", &d);
-    
-    printf("%s %.4f", "Результат равен", getValue(x,y,c,d));
+}
+
+int main(int argc, const char * argv[]) {
+    setValue();
+    getValue(x,y,c,d);
     puts("");
     return 0;
 }
