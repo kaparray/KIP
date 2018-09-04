@@ -1,0 +1,6 @@
+/Users/kaparray/Projects/project_1/project_1/bin/Debug/project_1.exe
+/Users/kaparray/Projects/project_1/project_1/bin/Debug/project_1.pdb
+/Users/kaparray/Projects/project_1/project_1/obj/x86/Debug/project_1.csprojAssemblyReference.cache
+/Users/kaparray/Projects/project_1/project_1/obj/x86/Debug/project_1.csproj.CoreCompileInputs.cache
+/Users/kaparray/Projects/project_1/project_1/obj/x86/Debug/project_1.exe
+/Users/kaparray/Projects/project_1/project_1/obj/x86/Debug/project_1.pdb
