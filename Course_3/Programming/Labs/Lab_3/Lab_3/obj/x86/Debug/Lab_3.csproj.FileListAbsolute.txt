@@ -1,0 +1,6 @@
+/Users/kaparray/Projects/Lab_3/Lab_3/bin/Debug/Lab_3.exe
+/Users/kaparray/Projects/Lab_3/Lab_3/bin/Debug/Lab_3.pdb
+/Users/kaparray/Projects/Lab_3/Lab_3/obj/x86/Debug/Lab_3.csprojAssemblyReference.cache
+/Users/kaparray/Projects/Lab_3/Lab_3/obj/x86/Debug/Lab_3.csproj.CoreCompileInputs.cache
+/Users/kaparray/Projects/Lab_3/Lab_3/obj/x86/Debug/Lab_3.exe
+/Users/kaparray/Projects/Lab_3/Lab_3/obj/x86/Debug/Lab_3.pdb

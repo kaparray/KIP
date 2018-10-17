@@ -1,0 +1,46 @@
+Фильтрация по столбцам - из таблицы выбираются определённый столбцы.
+
+SELECT FirstName + ' ' + LastName AS 'Name of shipper'
+FROM [dbo].[Employees]
+
+Фильтрация по строкам осуществляется 
+
+
+SELECT *
+FROM [dbo][Customers]
+WHERE City="London"
+
+SELSECT *
+FROM [dbo].[Products]
+WHERE UnitePrice>=25 and UnitePrice<=30
+
+Это одно и тоже
+
+SELECT * FROM [dbo].[Products] WHERE UntilePrice Between 20 and 30
+
+Функции для работы со строками
+
+SELECT Len("КИП")
+SELECT Reverse("КиП при ФУ")
+SELECT Left("Колледж информатики и программрования")
+
+SELECT * FROM [dbo].[Products] WHERE Left(ProductName,1)='c' OR Left(ProductName,1)='a' OR Left(ProductName,1)= 'b'
+
+SELECT * FROM [dbo].[Products] WHERE Left(ProductName,1) IN ('A', 'B', 'C', 'D')
+
+SELECT * FROM [dbo].[Products] WHERE ProductName Like 'A%p' // Начинается на А и заканчивается на p
+
+SELECT * FROM [dbo].[Products] WHERE ProductName Like '_n' // По вхождению 2ого символа
+
+
+Функция для работы с датой
+
+SELECT GETDATE(); //- Выводит данные 
+SELECT YEAR(GETDATA());
+SELECT DATEPART(GETDATA());
+
+
+SET DateFormat MDY // Установка своего собственного формата.
+
+
+
