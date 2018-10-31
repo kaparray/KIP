@@ -26,3 +26,7 @@ SELECT Convert(varchar, 1) + '1'
 
 SELECT Convert(varchar, GETDATE(), 103)
 
+
+
+
+SELECT * FROM [dbo].[titles] WHERE price IS NULL OR price = 0 

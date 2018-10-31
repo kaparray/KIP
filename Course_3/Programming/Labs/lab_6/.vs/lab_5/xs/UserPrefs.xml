@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A651A169-8E84-4D5E-94C3-D9791E5086B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_5/Form3.cs">
+    <Files>
+      <File FileName="lab_5/Конус.cs" Line="1" Column="1" />
+      <File FileName="lab_5/Сфера.cs" Line="1" Column="1" />
+      <File FileName="lab_5/Усеченный конус.cs" Line="1" Column="1" />
+      <File FileName="lab_5/Form3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab__5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

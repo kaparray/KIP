@@ -18,6 +18,7 @@ namespace Lab_10_Strings
 
         public static void Main(string[] args)
         {
+           
             // Create new Thread for synchronous code
             new Thread(() =>
             {
@@ -25,12 +26,13 @@ namespace Lab_10_Strings
                 /* run your code here */
                 getDataAboutCoins(limit);
             }).Start();
-           
+
 
             outputGreeting(); //
             outputRegulation();
             menu();
 
+            Console.WriteLine("Good bye!");
             /*
             foreach (KeyValuePair<string, Datum> item in account.Data)
             {
@@ -45,13 +47,20 @@ namespace Lab_10_Strings
         */
         static void getDataAboutCoins(String limit)
         {
-            using (WebClient wc = new WebClient())
+            try
             {
-                var json = wc.DownloadString("https://api.coinmarketcap.com/v2/ticker/?limit=" + limit);
+                using (WebClient wc = new WebClient())
+                {
+                    var json = wc.DownloadString("https://api.coinmarketcap.com/v2/ticker/?limit=" + limit);
+                    account = JsonConvert.DeserializeObject<Welcome>(json);
+                }
 
-                account = JsonConvert.DeserializeObject<Welcome>(json);
+            }catch (System.Net.WebException)
+            {
+                Console.WriteLine("Ooops! No enternet conection :(");
             }
-       }
+
+        }
 
 
         /*
