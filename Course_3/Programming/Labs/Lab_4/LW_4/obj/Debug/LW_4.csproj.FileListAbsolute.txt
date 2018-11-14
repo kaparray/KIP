@@ -1,0 +1,14 @@
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\bin\Debug\LW_4.exe.config
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\bin\Debug\LW_4.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\bin\Debug\LW_4.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\obj\Debug\LW_4.csprojResolveAssemblyReference.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\obj\Debug\LW_4.csproj.CoreCompileInputs.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\obj\Debug\LW_4.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_4\LW_4\obj\Debug\LW_4.pdb
+\\Mac\Home\Downloads\LW_4\LW_4\bin\Debug\LW_4.exe.config
+\\Mac\Home\Downloads\LW_4\LW_4\bin\Debug\LW_4.exe
+\\Mac\Home\Downloads\LW_4\LW_4\bin\Debug\LW_4.pdb
+\\Mac\Home\Downloads\LW_4\LW_4\obj\Debug\LW_4.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\LW_4\LW_4\obj\Debug\LW_4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\LW_4\LW_4\obj\Debug\LW_4.exe
+\\Mac\Home\Downloads\LW_4\LW_4\obj\Debug\LW_4.pdb
