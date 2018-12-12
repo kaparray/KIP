@@ -25,7 +25,14 @@ namespace Lab_10
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label6.Text = "Demo:  your string = " + textBox1.Text + " "
+            label6.Text = "Demo:  your string = " + textBox1.Text + "  After remove: " + textBox1.Text.Remove(Int32.Parse(textBox2.Text), Int32.Parse(textBox3.Text));
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 f1 = new Form1(); //this is the change, code for redirect
+            f1.ShowDialog();
         }
     }
 }

@@ -95,7 +95,7 @@ namespace Lab_10
         private void button11_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form11 f12 = new Form12(); //this is the change, code for redirect
+            Form12 f12 = new Form12(); //this is the change, code for redirect
             f12.ShowDialog();
         }
     }
