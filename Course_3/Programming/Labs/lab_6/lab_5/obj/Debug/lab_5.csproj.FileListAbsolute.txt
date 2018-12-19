@@ -37,3 +37,16 @@ C:\Users\ds031\Desktop\Folder\KIP\Labs by AP\lab_6\lab_5\obj\Debug\lab_5.pdb
 \\Mac\Home\Desktop\Labs by AP\lab_6\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Labs by AP\lab_6\lab_5\obj\Debug\lab_5.exe
 \\Mac\Home\Desktop\Labs by AP\lab_6\lab_5\obj\Debug\lab_5.pdb
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\bin\Debug\lab_5.exe.config
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\bin\Debug\lab_5.exe
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\bin\Debug\lab_5.pdb
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.Form1.resources
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.Form2.resources
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.Form3.resources
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.Form4.resources
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.exe
+\\Mac\Home\Desktop\Labs\lab_6\lab_5\obj\Debug\lab_5.pdb

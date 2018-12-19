@@ -25,7 +25,6 @@ namespace Lab_3
                         Console.Write(array[i, j] + "  ");
                     }
                     else{
-
                         // Ограничивает матрицу выше диагонали,а потом ограничивает часть где i + j < 9 => это верхний теругольник
                         if (j > i && i + j < 9) 
                             Console.ForegroundColor = ConsoleColor.Cyan;
