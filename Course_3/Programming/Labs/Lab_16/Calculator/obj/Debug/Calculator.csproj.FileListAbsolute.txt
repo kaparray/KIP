@@ -38,3 +38,13 @@ C:\Users\User\source\repos\backup\Calculator\Calculator\obj\Debug\Calculator.pdb
 \\Mac\Home\Desktop\Calculator-master\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Calculator-master\Calculator\obj\Debug\Calculator.exe
 \\Mac\Home\Desktop\Calculator-master\Calculator\obj\Debug\Calculator.pdb
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\bin\Debug\Calculator.exe.config
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\bin\Debug\Calculator.exe
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\bin\Debug\Calculator.pdb
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.Form1.resources
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.exe
+\\Mac\Home\Desktop\Programming\Labs\Lab_16\Calculator\obj\Debug\Calculator.pdb

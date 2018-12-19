@@ -13,7 +13,6 @@ namespace Calculator
             _icalc.Digits += new EventHandler<EventArgs>(Digits);
             _icalc.Binar_Operators += new EventHandler<EventArgs>(Binar_operators);
             _icalc.Unar_Operators += new EventHandler<EventArgs>(Unar_operators);
-            _icalc.Memory += new EventHandler<EventArgs>(Memory);
             _icalc.Controls_op += new EventHandler<EventArgs>(Controls_op);
             _icalc.Backspace += new EventHandler<EventArgs>(Bspc);
             _icalc.Percent += new EventHandler<EventArgs>(Percent_method);
@@ -162,36 +161,7 @@ namespace Calculator
             }
             _icalc.Last_button = "Controls_op";
         }
-        private void Memory(Object sender, EventArgs e)
-        {
-            switch (_icalc.Memory_button)
-            {
-                case "MS":
-                    if (Calculations.memory_box.Equals("0"))
-                    {
-                        Calculations.memory_box = _icalc.Result;
-                        _icalc.Label_memory = "M";
-                    }
-                    break;
-                case "MR":
-                    _icalc.Result = Calculations.memory_box;
-                    break;
-                case "MC":
-                    Calculations.memory_box = "0";
-                    _icalc.Label_memory = "";
-                    break;
-                case "M+":
-                    Calculations.memory_box = (Double.Parse(Calculations.memory_box) + Double.Parse(_icalc.Result)).ToString();
-                    _icalc.Label_memory = "M";
-                    break;
-                case "M-":
-                    Calculations.memory_box = (Double.Parse(Calculations.memory_box) - Double.Parse(_icalc.Result)).ToString();
-                    _icalc.Label_memory = "M";
-                    break;
-                default:
-                    break;
-            }
-        }
+
 
         private void Bspc(Object sender, EventArgs e)
         {
