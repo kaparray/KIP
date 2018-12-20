@@ -20,7 +20,7 @@ namespace WindowsFormsApplication5
         }
 
 
-
+        // Code for output all matrix in TextBox
         private void button1_Click(object sender, EventArgs e)
         {
            
@@ -70,6 +70,7 @@ namespace WindowsFormsApplication5
             dataGridView1.Rows[0].Selected = false;
         }
 
+        // Code for output all matrix in DataGridView
         private void button2_Click(object sender, EventArgs e)
         {
             String copy;
@@ -124,6 +125,7 @@ namespace WindowsFormsApplication5
             Environment.Exit(0);
         }
 
+        // Code for output all matrix in TextBox with tabs
         private void button5_Click(object sender, EventArgs e)
         {
             StringBuilder word = new StringBuilder();
@@ -136,11 +138,11 @@ namespace WindowsFormsApplication5
                     word.Append("\t");
                 }
                 word.Append("\r\n");
-
             }
             textBox2.Text = word.ToString();
         }
 
+        // Code for output matrix in DataGridView 
         private void button4_Click(object sender, EventArgs e)
         {
             String copy;
@@ -172,11 +174,7 @@ namespace WindowsFormsApplication5
             textBox2.Clear();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-        
-        }
-
+        // Code for output one row form DataGridView to TextBox
         private void button7_Click(object sender, EventArgs e)
         {
                 textBox3.Clear();
@@ -185,33 +183,35 @@ namespace WindowsFormsApplication5
                     dataGridView1[i, dataGridView1.CurrentRow.Index].Value = "";
                 }
                 dataGridView1.Rows[0].Selected = false;
-          
         }
 
+        // Code for  output one row form TextBox to DataGridView
         private void button8_Click(object sender, EventArgs e)
         {
             string [] s = new string [10];
-            for (int i = 0; i < 10; i++)
+            try
             {
-                s[i] += dataGridView1[i, dataGridView1.CurrentRow.Index].Value.ToString();
+                for (int i = 0; i < 10; i++)
+                {
+                    s[i] += dataGridView1[i, dataGridView1.CurrentRow.Index].Value.ToString();
 
-            }
+                }
 
-            for (int i = 0; i < 10; i++)
+                for (int i = 0; i < 10; i++)
+                {
+                    dataGridView1[i, dataGridView1.CurrentRow.Index].Value = textBox3.Text[i];
+
+                }
+                textBox3.Clear();
+
+                for (int i = 0; i < 10; i++)
+                {
+                    textBox3.Text += s[i];
+                }
+            } catch (IndexOutOfRangeException)
             {
-                dataGridView1[i, dataGridView1.CurrentRow.Index].Value = textBox3.Text[i];
-                
+                MessageBox.Show("Ooooops! No input data");
             }
-            textBox3.Clear();
-
-            for (int i = 0; i < 10; i++)
-            {
-                textBox3.Text += s[i];
-            }
-                
-
-
-           
             dataGridView1.Rows[0].Selected = false;
         }
     }
