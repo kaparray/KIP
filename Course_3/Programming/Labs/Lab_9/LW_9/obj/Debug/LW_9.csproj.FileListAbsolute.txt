@@ -1,0 +1,28 @@
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\bin\Debug\LW_9.exe.config
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\bin\Debug\LW_9.exe
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\bin\Debug\LW_9.pdb
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.Form1.resources
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.Properties.Resources.resources
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.csproj.GenerateResource.Cache
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.exe
+C:\Users\kbstudentint\Desktop\LW_9\LW_9\obj\Debug\LW_9.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\bin\Debug\LW_9.exe.config
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\bin\Debug\LW_9.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\bin\Debug\LW_9.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.csprojResolveAssemblyReference.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.Form1.resources
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.Properties.Resources.resources
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.csproj.GenerateResource.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.csproj.CoreCompileInputs.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\WindowsForms\LW_9\LW_9\obj\Debug\LW_9.pdb
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\bin\Debug\LW_9.exe.config
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.exe
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.pdb
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\bin\Debug\LW_9.exe
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\bin\Debug\LW_9.pdb
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.csprojResolveAssemblyReference.cache
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.Form1.resources
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.Properties.Resources.resources
+C:\Users\kbstudentint\Desktop\9 лаба Ренад\LW_9\LW_9\obj\Debug\LW_9.csproj.GenerateResource.Cache
