@@ -1,0 +1,28 @@
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\bin\Debug\Function.exe.config
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\bin\Debug\Function.exe
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\bin\Debug\Function.pdb
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\obj\Debug\Function.exe
+E:\Private\Шарага\Основы программирования\2. С#\2. Work_Book\Function\Function\obj\Debug\Function.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\bin\Debug\Function.exe.config
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\bin\Debug\Function.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\bin\Debug\Function.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\obj\Debug\Function.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\LW_2\Function\obj\Debug\Function.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\bin\Debug\Function.exe.config
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\bin\Debug\Function.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\bin\Debug\Function.pdb
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\obj\Debug\Function.csprojResolveAssemblyReference.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\obj\Debug\Function.exe
+E:\Private\Колледж\Программирование\2. С#\3. Labor_Work\ConsoleApp\LW_2\Function\obj\Debug\Function.pdb
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\bin\Debug\Function.exe.config
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\bin\Debug\Function.exe
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\bin\Debug\Function.pdb
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\obj\Debug\Function.csprojAssemblyReference.cache
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\obj\Debug\Function.exe
+C:\Users\benis\Desktop\Folder\Labs-by-AP\LW_2\Function\obj\Debug\Function.pdb
