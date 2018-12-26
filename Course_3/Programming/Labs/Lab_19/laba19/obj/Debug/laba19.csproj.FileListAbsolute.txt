@@ -1,0 +1,14 @@
+C:\Users\spewf\source\repos\laba19\laba19\bin\Debug\laba19.exe.config
+C:\Users\spewf\source\repos\laba19\laba19\bin\Debug\laba19.exe
+C:\Users\spewf\source\repos\laba19\laba19\bin\Debug\laba19.pdb
+C:\Users\spewf\source\repos\laba19\laba19\obj\Debug\laba19.csprojAssemblyReference.cache
+C:\Users\spewf\source\repos\laba19\laba19\obj\Debug\laba19.csproj.CoreCompileInputs.cache
+C:\Users\spewf\source\repos\laba19\laba19\obj\Debug\laba19.exe
+C:\Users\spewf\source\repos\laba19\laba19\obj\Debug\laba19.pdb
+C:\Users\Renad\Desktop\laba19\laba19\bin\Debug\laba19.exe.config
+C:\Users\Renad\Desktop\laba19\laba19\bin\Debug\laba19.exe
+C:\Users\Renad\Desktop\laba19\laba19\bin\Debug\laba19.pdb
+C:\Users\Renad\Desktop\laba19\laba19\obj\Debug\laba19.csprojResolveAssemblyReference.cache
+C:\Users\Renad\Desktop\laba19\laba19\obj\Debug\laba19.csproj.CoreCompileInputs.cache
+C:\Users\Renad\Desktop\laba19\laba19\obj\Debug\laba19.exe
+C:\Users\Renad\Desktop\laba19\laba19\obj\Debug\laba19.pdb
