@@ -17,3 +17,13 @@ C:\Users\Renad\Desktop\Отчёты\Киреева\LW_11\LW_11\obj\Debug\LW_11.c
 C:\Users\Renad\Desktop\Отчёты\Киреева\LW_11\LW_11\obj\Debug\LW_11.csproj.CoreCompileInputs.cache
 C:\Users\Renad\Desktop\Отчёты\Киреева\LW_11\LW_11\obj\Debug\LW_11.exe
 C:\Users\Renad\Desktop\Отчёты\Киреева\LW_11\LW_11\obj\Debug\LW_11.pdb
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\bin\Debug\LW_11.exe.config
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\bin\Debug\LW_11.exe
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\bin\Debug\LW_11.pdb
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.Form1.resources
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.Properties.Resources.resources
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.exe
+\\Mac\Home\Desktop\Labs\Lab_14\LW_11\obj\Debug\LW_11.pdb

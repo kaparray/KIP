@@ -31,57 +31,57 @@ namespace LW_11
 
         private void button2_Click(object sender, EventArgs e)
         {
-            _delegate += Minus_5;
-            listBox1.Items.Add("Minus_5()" + NL);
-            textBox2.AppendText("_delegate += Minus_5;" + NL);
+            _delegate += Minus_7;
+            listBox1.Items.Add("Minus_7()" + NL);
+            textBox2.AppendText("_delegate += Minus_7;" + NL);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            _delegate += Plus_5;
-            listBox1.Items.Add("Plus_5()" + NL);
-            textBox2.AppendText("_delegate += Plus_5;" + NL);
+            _delegate += Plus_7;
+            listBox1.Items.Add("Plus_7()" + NL);
+            textBox2.AppendText("_delegate += Plus_7;" + NL);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            _delegate += Multiply_2;
+            _delegate += Multiply_20;
             listBox1.Items.Add("Multiply_2" + NL);
-            textBox2.AppendText("_delegate += Multiply_2;" + NL);
+            textBox2.AppendText("_delegate += Multiply_20;" + NL);
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            _delegate += Devision_2;
+            _delegate += Devision_20;
             listBox1.Items.Add("Devision_2" + NL);
-            textBox2.AppendText("_delegate += Devision_2;" + NL);
+            textBox2.AppendText("_delegate += Devision_20;" + NL);
         }
 
-        private double Minus_5(double a)
+        private double Minus_7(double a)
         {
-            textBox1.AppendText("Отнимаем от " + а + " число 5" + NL);
-            а = а - 5;
+            textBox1.AppendText("Отнимаем от " + а + " число 7" + NL);
+            а = а - 7;
             return а;
         }
 
-        private double Plus_5(double a)
+        private double Plus_7(double a)
         {
-            textBox1.AppendText("Прибавляем к " + а + " число 5" + NL);
-            а = а + 5;
+            textBox1.AppendText("Прибавляем к " + а + " число 7" + NL);
+            а = а + 7;
             return а;
         }
 
-        private double Multiply_2(double a)
+        private double Multiply_20(double a)
         {
-            textBox1.AppendText("Умножаем " + а + " на 2" + NL);
-            а = а * 2;
+            textBox1.AppendText("Умножаем " + а + " на 20" + NL);
+            а = а * 20;
             return а;
         }
 
-        private double Devision_2(double a)
+        private double Devision_20(double a)
         {
-            textBox1.AppendText("Делим " + а + " на 2" + NL);
-            а = а / 2;
+            textBox1.AppendText("Делим " + а + " на 20" + NL);
+            а = а / 20;
             return а;
         }
 
